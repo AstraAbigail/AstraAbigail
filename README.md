@@ -21,7 +21,7 @@
 - 😄 I am self-taught, enterprising, creative and innovative.
 - ⚡ Fun fact: --> I am an actress and dancer!
 
-### 💫 &nbsp;Contact Me:
+###  &nbsp;Contact Me:
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -29,6 +29,6 @@
   </a>
  <a href="https://www.linkedin.com/in/abigailastradas/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
+ </a>
 </p>
 <br>
