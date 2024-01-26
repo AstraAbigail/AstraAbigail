@@ -19,6 +19,7 @@
 - 🔭 I am currently working on a system in Python, Visual Studio Code, in the graphic part QT Designer, and in MySql database in a cloud server. Objective is to manage reports of customers, suppliers, products and generate budgets. With user control
 - 🌱 I am currently learning WordPress
 - 😄 I am self-taught, enterprising, creative and innovative.
+- 💻 I graduated as a Superior Technician in Systems Analysis.
 - ⚡ Fun fact: --> I am an actress and dancer!
 
 ###  &nbsp;Contact Me:
