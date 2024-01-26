@@ -1,29 +1,34 @@
 
 <h1 align="center">Hi 👋, I'm Abigail Astradas</h1>
 
-
-
+ ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,qt,androidstudio,java,css,html,bootstrap,git,vscode" />
+  </a>
 </p>
 <br>
 
 
-SOBRE MI:
 
-*🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💫 &nbsp;About Me:
+
+- 🔭 I am currently working on a system in Python, Visual Studio Code, in the graphic part QT Designer, and in MySql database in a cloud server. Objective is to manage reports of customers, suppliers, products and generate budgets. With user control
+- 🌱 I am currently learning WordPress
+- 😄 I am self-taught, enterprising, creative and innovative.
+- ⚡ Fun fact: --> I am an actress and dancer!
+
+### 💫 &nbsp;Contact Me:
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail" (mailto:astrabigail@gmail.com) />
+  </a>
+ <a href="https://www.linkedin.com/in/abigailastradas/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
+<br>
