@@ -24,8 +24,8 @@
 ###  &nbsp;Contact Me:
 <br>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail" (mailto:astrabigail@gmail.com) />
+  <a href="mailto:astrabigail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
  <a href="https://www.linkedin.com/in/abigailastradas/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
