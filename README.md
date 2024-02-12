@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abigail Astradas</h1>
 
- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
